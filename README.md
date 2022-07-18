@@ -25,14 +25,10 @@ pip install -r requirements.txt
 - ISIC2018 [ISIC2018](https://challenge2018.isic-archive.com/). The original data will be preprocessed by `/preprocessing/preprocessImageConstancy.m`.
 
 ## Pipelines use case
-### 1. Train the 3-class model  
-Example for 
-```bash
-python train_cifar.py --loss_function 'HML' --weighting_type CS --dataset_name 'cifar100' --imb_type 'exp' --imb_ratio 0.02 --gpu 0 
-```
+
 ### 1. Train all models per task 
 
-#### 3-class task
+#### Train the 3-class model  
 ```bash
 python -u train_isic_multi.py
 ```
