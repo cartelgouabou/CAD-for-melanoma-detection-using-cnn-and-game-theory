@@ -1,0 +1,549 @@
+5
+Calcul des heatmaps...
+curent task:
+uncertain
+current image: 0
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0027900.jpg
+Vanilla Backpropagation:
+	#0: NEV (0.92878)
+	#0: MEL (0.07114)
+	#0: BEK (0.00008)
+Deconvolution:
+	#0: NEV (0.92878)
+	#0: MEL (0.07114)
+	#0: BEK (0.00008)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: NEV (0.92878)
+	#0: MEL (0.07114)
+	#0: BEK (0.00008)
+current image: 1
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0033670.jpg
+Vanilla Backpropagation:
+	#0: NEV (0.92032)
+	#0: MEL (0.07404)
+	#0: BEK (0.00564)
+Deconvolution:
+	#0: NEV (0.92032)
+	#0: MEL (0.07404)
+	#0: BEK (0.00564)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: NEV (0.92032)
+	#0: MEL (0.07404)
+	#0: BEK (0.00564)
+current image: 2
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0030910.jpg
+Vanilla Backpropagation:
+	#0: BEK (0.99761)
+	#0: MEL (0.00237)
+	#0: NEV (0.00001)
+Deconvolution:
+	#0: BEK (0.99761)
+	#0: MEL (0.00237)
+	#0: NEV (0.00001)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: BEK (0.99761)
+	#0: MEL (0.00237)
+	#0: NEV (0.00001)
+current image: 3
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0033068.jpg
+Vanilla Backpropagation:
+	#0: BEK (0.90973)
+	#0: MEL (0.08102)
+	#0: NEV (0.00925)
+Deconvolution:
+	#0: BEK (0.90973)
+	#0: MEL (0.08102)
+	#0: NEV (0.00925)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: BEK (0.90973)
+	#0: MEL (0.08102)
+	#0: NEV (0.00925)
+current image: 4
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0031203.jpg
+Vanilla Backpropagation:
+	#0: BEK (0.99810)
+	#0: NEV (0.00130)
+	#0: MEL (0.00060)
+Deconvolution:
+	#0: BEK (0.99810)
+	#0: NEV (0.00130)
+	#0: MEL (0.00060)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: BEK (0.99810)
+	#0: NEV (0.00130)
+	#0: MEL (0.00060)
+81
+Calcul des heatmaps...
+curent task:
+confident
+current image: 0
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0031795.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99878)
+	#0: NEV (0.00094)
+	#0: BEK (0.00028)
+Deconvolution:
+	#0: MEL (0.99878)
+	#0: NEV (0.00094)
+	#0: BEK (0.00028)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99878)
+	#0: NEV (0.00094)
+	#0: BEK (0.00028)
+current image: 1
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0033178.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.98012)
+	#0: NEV (0.01984)
+	#0: BEK (0.00003)
+Deconvolution:
+	#0: MEL (0.98012)
+	#0: NEV (0.01984)
+	#0: BEK (0.00003)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.98012)
+	#0: NEV (0.01984)
+	#0: BEK (0.00003)
+current image: 2
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0029146.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99994)
+	#0: NEV (0.00004)
+	#0: BEK (0.00002)
+Deconvolution:
+	#0: MEL (0.99994)
+	#0: NEV (0.00004)
+	#0: BEK (0.00002)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99994)
+	#0: NEV (0.00004)
+	#0: BEK (0.00002)
+current image: 3
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0026754.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99970)
+	#0: BEK (0.00029)
+	#0: NEV (0.00001)
+Deconvolution:
+	#0: MEL (0.99970)
+	#0: BEK (0.00029)
+	#0: NEV (0.00001)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99970)
+	#0: BEK (0.00029)
+	#0: NEV (0.00001)
+current image: 4
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0028584.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99999)
+	#0: NEV (0.00000)
+	#0: BEK (0.00000)
+Deconvolution:
+	#0: MEL (0.99999)
+	#0: NEV (0.00000)
+	#0: BEK (0.00000)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99999)
+	#0: NEV (0.00000)
+	#0: BEK (0.00000)
+current image: 5
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0033802.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99872)
+	#0: NEV (0.00102)
+	#0: BEK (0.00026)
+Deconvolution:
+	#0: MEL (0.99872)
+	#0: NEV (0.00102)
+	#0: BEK (0.00026)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99872)
+	#0: NEV (0.00102)
+	#0: BEK (0.00026)
+current image: 6
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0034117.jpg
+Vanilla Backpropagation:
+	#0: MEL (1.00000)
+	#0: BEK (0.00000)
+	#0: NEV (0.00000)
+Deconvolution:
+	#0: MEL (1.00000)
+	#0: BEK (0.00000)
+	#0: NEV (0.00000)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (1.00000)
+	#0: BEK (0.00000)
+	#0: NEV (0.00000)
+current image: 7
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0028215.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99989)
+	#0: BEK (0.00011)
+	#0: NEV (0.00000)
+Deconvolution:
+	#0: MEL (0.99989)
+	#0: BEK (0.00011)
+	#0: NEV (0.00000)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99989)
+	#0: BEK (0.00011)
+	#0: NEV (0.00000)
+current image: 8
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0027327.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99988)
+	#0: NEV (0.00011)
+	#0: BEK (0.00000)
+Deconvolution:
+	#0: MEL (0.99988)
+	#0: NEV (0.00011)
+	#0: BEK (0.00000)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99988)
+	#0: NEV (0.00011)
+	#0: BEK (0.00000)
+current image: 9
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0033668.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99950)
+	#0: NEV (0.00049)
+	#0: BEK (0.00001)
+Deconvolution:
+	#0: MEL (0.99950)
+	#0: NEV (0.00049)
+	#0: BEK (0.00001)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99950)
+	#0: NEV (0.00049)
+	#0: BEK (0.00001)
+current image: 10
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0024545.jpg
+Vanilla Backpropagation:
+	#0: MEL (1.00000)
+	#0: BEK (0.00000)
+	#0: NEV (0.00000)
+Deconvolution:
+	#0: MEL (1.00000)
+	#0: BEK (0.00000)
+	#0: NEV (0.00000)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (1.00000)
+	#0: BEK (0.00000)
+	#0: NEV (0.00000)
+current image: 11
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0029473.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99760)
+	#0: BEK (0.00196)
+	#0: NEV (0.00044)
+Deconvolution:
+	#0: MEL (0.99760)
+	#0: BEK (0.00196)
+	#0: NEV (0.00044)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99760)
+	#0: BEK (0.00196)
+	#0: NEV (0.00044)
+current image: 12
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0032408.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99768)
+	#0: BEK (0.00220)
+	#0: NEV (0.00012)
+Deconvolution:
+	#0: MEL (0.99768)
+	#0: BEK (0.00220)
+	#0: NEV (0.00012)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99768)
+	#0: BEK (0.00220)
+	#0: NEV (0.00012)
+current image: 13
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0030032.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99596)
+	#0: NEV (0.00398)
+	#0: BEK (0.00006)
+Deconvolution:
+	#0: MEL (0.99596)
+	#0: NEV (0.00398)
+	#0: BEK (0.00006)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99596)
+	#0: NEV (0.00398)
+	#0: BEK (0.00006)
+current image: 14
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0026897.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99743)
+	#0: NEV (0.00257)
+	#0: BEK (0.00000)
+Deconvolution:
+	#0: MEL (0.99743)
+	#0: NEV (0.00257)
+	#0: BEK (0.00000)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99743)
+	#0: NEV (0.00257)
+	#0: BEK (0.00000)
+current image: 15
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0032389.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99986)
+	#0: NEV (0.00010)
+	#0: BEK (0.00003)
+Deconvolution:
+	#0: MEL (0.99986)
+	#0: NEV (0.00010)
+	#0: BEK (0.00003)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99986)
+	#0: NEV (0.00010)
+	#0: BEK (0.00003)
+current image: 16
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0033570.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99991)
+	#0: NEV (0.00008)
+	#0: BEK (0.00000)
+Deconvolution:
+	#0: MEL (0.99991)
+	#0: NEV (0.00008)
+	#0: BEK (0.00000)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99991)
+	#0: NEV (0.00008)
+	#0: BEK (0.00000)
+current image: 17
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0032841.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99910)
+	#0: NEV (0.00088)
+	#0: BEK (0.00002)
+Deconvolution:
+	#0: MEL (0.99910)
+	#0: NEV (0.00088)
+	#0: BEK (0.00002)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99910)
+	#0: NEV (0.00088)
+	#0: BEK (0.00002)
+current image: 18
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0031666.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99843)
+	#0: NEV (0.00114)
+	#0: BEK (0.00043)
+Deconvolution:
+	#0: MEL (0.99843)
+	#0: NEV (0.00114)
+	#0: BEK (0.00043)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99843)
+	#0: NEV (0.00114)
+	#0: BEK (0.00043)
+current image: 19
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0032182.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99998)
+	#0: BEK (0.00001)
+	#0: NEV (0.00000)
+Deconvolution:
+	#0: MEL (0.99998)
+	#0: BEK (0.00001)
+	#0: NEV (0.00000)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99998)
+	#0: BEK (0.00001)
+	#0: NEV (0.00000)
+current image: 20
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0032917.jpg
+Vanilla Backpropagation:
+	#0: MEL (1.00000)
+	#0: NEV (0.00000)
+	#0: BEK (0.00000)
+Deconvolution:
+	#0: MEL (1.00000)
+	#0: NEV (0.00000)
+	#0: BEK (0.00000)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (1.00000)
+	#0: NEV (0.00000)
+	#0: BEK (0.00000)
+current image: 21
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0034208.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99231)
+	#0: NEV (0.00386)
+	#0: BEK (0.00383)
+Deconvolution:
+	#0: MEL (0.99231)
+	#0: NEV (0.00386)
+	#0: BEK (0.00383)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99231)
+	#0: NEV (0.00386)
+	#0: BEK (0.00383)
+current image: 22
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0032750.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99648)
+	#0: NEV (0.00318)
+	#0: BEK (0.00034)
+Deconvolution:
+	#0: MEL (0.99648)
+	#0: NEV (0.00318)
+	#0: BEK (0.00034)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99648)
+	#0: NEV (0.00318)
+	#0: BEK (0.00034)
+current image: 23
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0033204.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99929)
+	#0: NEV (0.00069)
+	#0: BEK (0.00002)
+Deconvolution:
+	#0: MEL (0.99929)
+	#0: NEV (0.00069)
+	#0: BEK (0.00002)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99929)
+	#0: NEV (0.00069)
+	#0: BEK (0.00002)
+current image: 24
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0030211.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99998)
+	#0: BEK (0.00001)
+	#0: NEV (0.00001)
+Deconvolution:
+	#0: MEL (0.99998)
+	#0: BEK (0.00001)
+	#0: NEV (0.00001)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99998)
+	#0: BEK (0.00001)
+	#0: NEV (0.00001)
+current image: 25
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0024999.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.97946)
+	#0: NEV (0.02049)
+	#0: BEK (0.00004)
+Deconvolution:
+	#0: MEL (0.97946)
+	#0: NEV (0.02049)
+	#0: BEK (0.00004)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.97946)
+	#0: NEV (0.02049)
+	#0: BEK (0.00004)
+current image: 26
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0032517.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.97870)
+	#0: NEV (0.01774)
+	#0: BEK (0.00357)
+Deconvolution:
+	#0: MEL (0.97870)
+	#0: NEV (0.01774)
+	#0: BEK (0.00357)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.97870)
+	#0: NEV (0.01774)
+	#0: BEK (0.00357)
+current image: 27
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0032965.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99976)
+	#0: NEV (0.00019)
+	#0: BEK (0.00004)
+Deconvolution:
+	#0: MEL (0.99976)
+	#0: NEV (0.00019)
+	#0: BEK (0.00004)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:
+	#0: MEL (0.99976)
+	#0: NEV (0.00019)
+	#0: BEK (0.00004)
+current image: 28
+Device: Tesla V100-SXM2-32GB
+Images:
+	#0: /gpfsdswork/projects/rech/izg/uvh55jl/journal//dataset/multi/TEST//MEL/ISIC_0032903.jpg
+Vanilla Backpropagation:
+	#0: MEL (0.99821)
+	#0: NEV (0.00113)
+	#0: BEK (0.00066)
+Deconvolution:
+	#0: MEL (0.99821)
+	#0: NEV (0.00113)
+	#0: BEK (0.00066)
+Grad-CAM/Guided Backpropagation/Guided Grad-CAM:

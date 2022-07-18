@@ -1,0 +1,8 @@
+Loading pytorch-gpu/py3/1.11.0
+  Loading requirement: cuda/11.2 nccl/2.9.6-1-cuda cudnn/8.1.1.33-cuda gcc/8.4.1
+    openmpi/4.1.1-cuda intel-mkl/2020.4 magma/2.5.4-cuda sox/14.4.2
+    sparsehash/2.0.3
++ cd /gpfswork/rech/izg/uvh55jl/journal/heat_maps
++ srun python -u confident_hm.py --prev_id 66
+/gpfslocalsup/pub/anaconda-py3/2021.05/envs/pytorch-gpu-1.11.0+py3.9.12/lib/python3.9/site-packages/torch/nn/modules/module.py:1033: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
