@@ -2,7 +2,7 @@
 
 _________________
 
-This is the Pytorch official implementation of the framework proposed in the paper [Explainable algorithm for melanoma detection using deep neural networks and game theory](https:) which is under revision for the Computer Methods and Programs in Biomedicine journal.
+This is the Pytorch official implementation of the framework proposed in the paper [Computer Aided Diagnosis of Melanoma using Deep Neural Networks and Game Theory](https:).
 ## Abstract figure
 
 ![Alt text](proposed_framework.png?raw=true "HMLoss")
