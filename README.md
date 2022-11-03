@@ -27,12 +27,12 @@ pip install -r requirements.txt
 
 ## Pipelines use case
 ### 1. Prepare data and models
-#### Creates and divides the database into database subgroups in order to train the models on the different tasks (six binary tasks and one 3-class task). It also defines the backbones of all models. 
+#### Creates and divides the original dataset into dataset subgroups in order to train the models on the different tasks (six binary tasks and one 3-class task). It also defines the backbones of all models. 
 ```bash
 python -u prepare_data_and_models.py
 ```
 
-### 2. Train all models per task 
+### 2. Train all models per task (See the 'launch-job' folder to know the order of the different scripts to launch).
 
 #### Train the 3-class model  
 ```bash
