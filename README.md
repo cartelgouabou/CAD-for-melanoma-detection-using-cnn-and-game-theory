@@ -24,9 +24,15 @@ pip install -r requirements.txt
 ## Dataset
 - ISIC2018 [ISIC2018](https://challenge2018.isic-archive.com/). The original data will be preprocessed by `/preprocessing/preprocessImageConstancy.m`.
 
-## Pipelines use case
 
-### 1. Train all models per task 
+## Pipelines use case
+### 1. Prepare data and models
+#### Creates and divides the database into database subgroups in order to train the models on the different tasks (six binary tasks and one 3-class task). It also defines the backbones of all models. 
+```bash
+python -u prepare_data_and_models.py
+```
+
+### 2. Train all models per task 
 
 #### Train the 3-class model  
 ```bash
@@ -36,11 +42,11 @@ python -u train_isic_multi.py
 ```bash
 python train_isic_bin.py --task bekVSmel  
 ```
-### 2. Generate result for all runs
+### 3. Generate result for all runs
 ```bash
 Python analyse_result.py
 ```
-### 3. Evaluate mean and std
+### 4. Evaluate mean and std
 ```bash
 Python evaluate_mean_and_std.py
 ```
