@@ -32,7 +32,7 @@ pip install -r requirements.txt
 python -u prepare_data_and_models.py
 ```
 
-### 2. Train all models per task (See the 'launch-job' folder to know the order of the different scripts to launch).
+### 2. Train all models per task (See the 'launch_jobs_scripts' folder to know the order of the different scripts to launch).
 
 #### Train the 3-class model  
 ```bash
