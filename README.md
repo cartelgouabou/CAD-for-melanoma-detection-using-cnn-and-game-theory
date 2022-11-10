@@ -2,7 +2,7 @@
 
 _________________
 
-This is the Pytorch official implementation of the framework proposed in the paper [Computer Aided Diagnosis of Melanoma using Deep Neural Networks and Game Theory](https:).
+This is the Pytorch official implementation of the framework proposed in the paper [Computer Aided Diagnosis of Melanoma using Deep Neural Networks and Game Theory](https://www.mdpi.com/1422-0067/23/22/13838).
 ## Abstract figure
 
 ![Alt text](proposed_framework.png?raw=true "HMLoss")
@@ -56,5 +56,15 @@ Python evaluate_mean_and_std.py
 If you find our paper and repo useful, please cite as
 
 ```
-@inproceedings{
+@Article{ijms232213838,
+AUTHOR = {Foahom Gouabou, Arthur Cartel and Collenne, Jules and Monnier, Jilliana and Iguernaissi, Rabah and Damoiseaux, Jean-Luc and Moudafi, Abdellatif and Merad, Djamal},
+TITLE = {Computer Aided Diagnosis of Melanoma Using Deep Neural Networks and Game Theory: Application on Dermoscopic Images of Skin Lesions},
+JOURNAL = {International Journal of Molecular Sciences},
+VOLUME = {23},
+YEAR = {2022},
+NUMBER = {22},
+ARTICLE-NUMBER = {13838},
+URL = {https://www.mdpi.com/1422-0067/23/22/13838},
+ISSN = {1422-0067},
+DOI = {10.3390/ijms232213838}
 }
