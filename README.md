@@ -5,7 +5,7 @@ _________________
 This is the Pytorch official implementation of the framework proposed in the paper [Computer Aided Diagnosis of Melanoma using Deep Neural Networks and Game Theory](https://www.mdpi.com/1422-0067/23/22/13838).
 ## Abstract figure
 
-![Alt text](proposed_framework.png?raw=true "HMLoss")
+![Alt text](proposed_framework.png?raw=true "Framework")
 ## Dependency
 The code is build with following main libraries
 - [Pytorch](https://www.tensorflow.org) 1.11.0
